@@ -3,7 +3,7 @@ Cool light fixture made out of Qi wireless charging technology, Arduino Trinket 
 
 ## YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=AMY5mPyg-wQ
 
 ## Diagram
 
